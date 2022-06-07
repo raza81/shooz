@@ -1,0 +1,30 @@
+.title {
+    background-color: #eeff00;
+    color: #021119;
+    text-align: center;
+    padding: 100px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+.knowledge {
+    background-color: #ffaa00;
+    color: rgb(0, 0, 0);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+a {
+    color: black;
+}
+
+button {
+    background-color: #d9ff00;
+}

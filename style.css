@@ -1,0 +1,45 @@
+﻿.title {
+    background-color: #fffb00;
+    color: #021119;
+    text-align: center;
+    padding: 100px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.letsSpeak {
+    background-color: #021119;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.knowledge {
+    background-color: #004e64;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.teach {
+    background-color: #16a8c7;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+a {
+    color: black;
+}
+
+button {
+    background-color: #c2454c;
+}
